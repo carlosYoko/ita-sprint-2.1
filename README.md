@@ -1,6 +1,6 @@
 # Debounce Function
 
-Trabajo del Sprint 2.1 de IT-Academy en la especialización de Node.js.
+Trabajo del Sprint 2.1 de IT-Academy en la especialización de Node.js.<br>
 Aplicación debounce function utilizando TypeScript y el patrón MVC.<br>
 Incluye interfaz CLI, testing y frontend básico en HTML.
 
@@ -18,9 +18,9 @@ npm install
 
 ## Comandos
 
-### Para compilar el proyecto:
+### Para transpilar el proyecto:
 
-Para compilar el proyecto, usa el siguiente comando:
+Para transpilar el proyecto, usa el siguiente comando:
 
 ```bash
 npm run build
