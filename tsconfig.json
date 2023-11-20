@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "ES6",
+    "module": "ESNext",
+    "rootDir": "./src",
+    /* Emit */
+    "outDir": "./dist",
+    /* Interop Constraints */
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    /* Type Checking */
+    "strict": true,
+    /* Completeness */
+    "skipLibCheck": true
+  },
+  "exclude": ["src/__tests__/**/*"],
+  "ts-node": {
+    "esm": true
+  }
+}
