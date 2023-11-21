@@ -4,6 +4,8 @@
     "target": "ES6",
     "module": "ESNext",
     "rootDir": "./src",
+
+    "types": ["node", "jest", "inquirer"],
     /* Emit */
     "outDir": "./dist",
     /* Interop Constraints */
