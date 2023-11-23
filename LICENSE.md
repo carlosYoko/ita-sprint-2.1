@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2023] [Carlos Giménez Berral]
+Copyright (c) [2023] [Carlos Giménez]
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
 de este software y los archivos de documentación asociados (debounce function), para tratar
