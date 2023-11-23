@@ -49,9 +49,9 @@ npm run test
 
 En el frontend, he incluido salidas por la consola para proporcionar información sobre las siguientes acciones:
 
-- **Número de clicks:** Cada vez que se agrega una nueva tarea, se mostrará un mensaje en la consola confirmando que se ha actualizado el arreglo de tareas y el DOM.
+- **Número de clicks:** Cada vez que se hace un click se mostrará tambien por consola.
 
-- **Número de veces que se ha ejecutado la funcion:** Cuando se modifica el estado de una tarea, se imprimirá un mensaje en la consola para mostrar que el arreglo de tareas ha sido actualizado y se refleja en el DOM.
+- **Número de veces que se ha ejecutado la funcion:** Si se llama a la función antes de que haya acabado el timer, no se sumaran los clicks y mostrara un mensaje por consola.
 
 ## Licencia
 
