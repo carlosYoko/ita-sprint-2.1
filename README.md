@@ -1,8 +1,11 @@
 # Debounce Function
 
-Aplicación debounce function utilizando TypeScript y el patrón MVC.
-Incluye interfaz CLI, testing y frontend básico en HTML.<br>
-#####Trabajo del Sprint 2.1 de IT-Academy en la especialización de Node.js.<br>
+Aplicación debounce function utilizando TypeScript y el patrón MVC.  
+Incluye interfaz CLI, testing y frontend básico en HTML.
+
+##### Trabajo del Sprint 2.1 de IT-Academy en la especialización de Node.js.<br>
+
+###### Descripción del ejercicio:
 
 Una función de debounce es una técnica para controlar la frecuencia de ejecución de una función en respuesta a eventos como clics, desplazamientos u otras acciones del usuario. El objetivo de esta función es evitar que se ejecute demasiado rápida y repetidamente, especialmente cuando los eventos ocurren con mucha frecuencia.
 
