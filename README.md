@@ -13,13 +13,13 @@ Básicamente, la función de debounce retrasa la ejecución hasta que ha transcu
 
 - La función debe ser implementada utilizando TypeScript y TDD.
 
-⭐ Nivel 1
+⭐ Nivel 1  
 Utiliza pruebas para verificar la funcionalidad de la función de debounce.
 
-⭐⭐ Nivel 2
+⭐⭐ Nivel 2  
 Crea una interfaz de línea de comandos (CLI) para verificar la funcionalidad de la función de debounce.
 
-⭐⭐⭐ Nivel 3
+⭐⭐⭐ Nivel 3  
 Crea un front-end para verificar la funcionalidad de la función de debounce.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
